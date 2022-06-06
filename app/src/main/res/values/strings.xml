@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="networkError">Please connect to internet</string>
+    <string name="apiFailure">Api Connection failure</string>
+    <string name="retrofitError">Retrofit error</string>
+    <string name="thankyouMessage">Thank you for visiting</string>
+    <string name="welcomeMessage">Welcome, we are happy to have you here !!!</string>
+    <string name="inputCheck">Please fill all the fields</string>
+    <string name="visit">Visit this for complete article: </string>
+    <string name="article_title">Watch: aespa Surprises Fans By Dropping Pre-Release Track “Illusion” + Is Chosen As Apple Music\'s “Up Next” Artist For June - soompi</string>
+    <string name="article_source">soompi</string>
+    <string name="article_time">2022-06-01T05:39:21Z</string>
+    <string name="article_desc">aespa’s long-awaited comeback announcement wasn’t the only surprise in store for MY today! On June 1, aespa announced that they would be making their highly-anticipated return this July with their second mini album “Girls.” Later that morning, SM Entertainmen…</string>
+    <string name="article_content">aespas long-awaited comeback announcement wasnt the only surprise in store for MY today!r\nOn June 1, aespa announced that they would be making their highly-anticipated return this July with their sec… [+1048 chars]</string>
+    <string name="article_visit">Visit this link</string>
+    <string name="article_imageText">image of article</string>
+    <string name="item_image">image of item</string>
+    <string name="item_source">SOURCE</string>
+    <string name="item_title">TITLE</string>
+    <string name="item_time">PUBLISHED AT</string>
+</resources>
